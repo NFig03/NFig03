@@ -1,4 +1,4 @@
-(https://github.com/NFig03/LeetCode-Stats-Card/blob/main/README.md)
+![Leetcode Stats](https://leetcard.nfig03.cool/NFig03)
 
 <!--
 **NFig03/NFig03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
