@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.nfig03.cool/NFig03)
+![Leetcode Stats](https://leetcard.jacoblin.cool/NFig03)
 
 <!--
 **NFig03/NFig03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
