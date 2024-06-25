@@ -1,3 +1,4 @@
+## LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NFig03?theme=dark&font=JetBrains%20Mono)
 
 <!--
