@@ -1,17 +1,17 @@
-## LeetCode Stats:
+## 👋 Hi, I'm Noah
+
+# Computer Science Student | Aspiring Software Engineer | Enthusiastic Learner
+
+# About Me
+
+🎓 Student at Southern New Hampshire University, graduating in 2025 with a Bachelor of Science in Computer Science.
+
+💡 Passionate about learning and applying new knowledge to bring ideas to life.
+
+🔎 Currently interested in strengthening my skills in web development, databases, and version control systems.
+
+🚀 Working towards landing an entry-level software engineering role prior to graduation.
+
+# LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NFig03?theme=dark&font=JetBrains%20Mono)
 
-<!--
-**NFig03/NFig03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
