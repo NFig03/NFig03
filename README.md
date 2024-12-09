@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Noah
+# 👋 Hi, I'm Noah
 
 # Computer Science Student | Aspiring Software Engineer | Enthusiastic Learner
 
