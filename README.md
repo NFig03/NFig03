@@ -16,7 +16,7 @@
 🏆 Further skills include Agile development, unit testing, and debugging   
 
 ## HackerRank
-https://www.hackerrank.com/profile/nfigueroa03
+https://www.hackerrank.com/nfigueroa03
 
 ## LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NFig03?theme=dark&font=JetBrains%20Mono)
