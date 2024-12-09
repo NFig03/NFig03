@@ -15,6 +15,9 @@
 🔧 Frameworks/Tools include JUnit and Maven   
 🏆 Further skills include Agile development, unit testing, and debugging   
 
-## LeetCode Stats:
+## HackerRank
+https://www.hackerrank.com/profile/nfigueroa03
+
+## LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NFig03?theme=dark&font=JetBrains%20Mono)
 
