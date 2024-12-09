@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Noah
 
-# Computer Science Student | Aspiring Software Engineer | Enthusiastic Learner
+## Computer Science Student | Aspiring Software Engineer | Enthusiastic Learner
 
-# About Me
+## About Me
 
 🎓 Student at Southern New Hampshire University, graduating in 2025 with a Bachelor of Science in Computer Science.
 
@@ -12,6 +12,6 @@
 
 🚀 Working towards landing an entry-level software engineering role prior to graduation.
 
-# LeetCode Stats:
+## LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NFig03?theme=dark&font=JetBrains%20Mono)
 
