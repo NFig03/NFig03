@@ -5,11 +5,8 @@
 ## About Me
 
 🎓 Student at Southern New Hampshire University, graduating in 2025 with a Bachelor of Science in Computer Science.
-
 💡 Passionate about learning and applying new knowledge to bring ideas to life.
-
 🔎 Currently interested in strengthening my skills in web development, databases, and version control systems.
-
 🚀 Working towards landing an entry-level software engineering role prior to graduation.
 
 ## LeetCode Stats:
