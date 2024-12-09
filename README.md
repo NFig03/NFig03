@@ -18,6 +18,8 @@
 ## HackerRank
 https://www.hackerrank.com/nfigueroa03
 
-## LeetCode Stats
+## LeetCode
+https://leetcode.com/NFig03/  
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NFig03?theme=dark&font=JetBrains%20Mono)
 
