@@ -11,9 +11,9 @@
 
 ## Skills
 
-💻 Languages include Java, Python, and C++   
-🔧 Frameworks/Tools include JUnit and Maven   
-🏆 Further skills include Agile development, unit testing, and debugging   
+💻 Languages include Java, Python, C++, and SQL     
+🔧 Frameworks/Tools include MySQL, MongoDB, JUnit, Eclipse, and OpenGL     
+🏆 Further skills include Agile Methodology, Unit Testing, and Debugging       
 
 ## HackerRank
 https://www.hackerrank.com/nfigueroa03
